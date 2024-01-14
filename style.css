@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 1160px;
+    height: auto;
+    margin: 50px auto;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-iteams , .nav-details{
+    display: flex;
+}
+.nav-details li{
+    list-style: none;
+    margin-right: 20px;
+}
+.nav-iteams i{
+    margin-right: 20px;
+}
+.sub-head-conntainer{
+    display: flex;
+}
+.circle-bg{
+    position: absolute;
+}
+.main-camera{
+    position: relative;
+}
